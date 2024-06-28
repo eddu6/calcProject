@@ -1,6 +1,6 @@
 let buttonArea = document.querySelector('.buttonArea');
 
-const buttonValues = ['1', '4', '7', 'Back', '2', '5', '8', '0', '3', '6', '9', 'Clear', '()', '%', 'X', '+/-', '+', '-', '/', '='];
+const buttonValues = ['()', '%', 'X', '+/-', '1', '4', '7', 'Back', '2', '5', '8', '0', '3', '6', '9', 'Clear', '+', '-', '/', '='];
 
 function createButtons(){
 for(i = 0; i < 20; i++){
